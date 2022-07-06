@@ -1,0 +1,18 @@
+
+email: xyzroe@mind.in.ua
+
+baseurl: "/eBus-TTL-adapter"
+url: "https://xyzroe.cc"
+
+title: eBus - TTL
+
+avatar: https://avatars.githubusercontent.com/u/6440415?v=4
+description: eBus adapter to connect your boiler
+favicon: https://xyzroe.cc/favicon.ico
+color_theme: auto
+footer_text: '<a rel="xyzroe" href="http://xyzroe.cc">xyzroe</a> © 2022<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>'
+
+remote_theme: sylhare/Type-on-Strap
+
+plugins:
+  - jekyll-remote-theme
