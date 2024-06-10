@@ -31,7 +31,6 @@ Also available HA [integration](https://www.home-assistant.io/integrations/ebusd
 ![Schematic](./images/Schematic.png)
 
 ### Where to buy?
-<a href="https://mind.in.ua/"><img src="https://static.tildacdn.com/tild3433-3934-4565-b362-386238366331/logo_full.png" alt="Go to mind.in.ua" height="120"></a>
 <a href="https://www.tindie.com/stores/mind/?ref=offsite_badges&utm_source=sellers_xyzroe&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" height="120"></a>
 
 ### DIY
