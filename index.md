@@ -20,8 +20,8 @@ Also available HA [integration](https://www.home-assistant.io/integrations/ebusd
 
 ### Overview
 <div align="center">
-<img width="40%" src="https://raw.githubusercontent.com/xyzroe/eBus-TTL-adapter/images/top.png">
-<img width="40%" src="https://raw.githubusercontent.com/xyzroe/eBus-TTL-adapter/images/bottom.png">
+<img width="40%" src="https://raw.githubusercontent.com/xyzroe/eBus-TTL-adapter/master/images/top.png">
+<img width="40%" src="https://raw.githubusercontent.com/xyzroe/eBus-TTL-adapter/master/images/bottom.png">
 </div>
 
 ### Photos
@@ -31,7 +31,7 @@ Also available HA [integration](https://www.home-assistant.io/integrations/ebusd
 </div>
 
 ### Schematic
-![Schematic](https://raw.githubusercontent.com/xyzroe/eBus-TTL-adapter/images/Schematic.png)
+![Schematic](https://raw.githubusercontent.com/xyzroe/eBus-TTL-adapter/images/master/Schematic.png)
 
 ### Where to buy?
 <a href="https://www.tindie.com/stores/mind/?ref=offsite_badges&utm_source=sellers_xyzroe&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" height="120"></a>
