@@ -11,6 +11,6 @@ remote_theme: sylhare/Type-on-Strap
 cookie_consent: true
 google_analytics: G-5JP6L4L4DL
 color_theme: auto
-footer_text: '<a rel="xyzroe" href="http://xyzroe.cc">xyzroe</a> © 2022<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>'
+footer_text: '<a rel="xyzroe" href="http://xyzroe.cc">xyzroe</a> © 2022-2024<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>'
 plugins:
   - jekyll-remote-theme
