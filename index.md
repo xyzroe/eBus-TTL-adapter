@@ -31,7 +31,7 @@ Also available HA [integration](https://www.home-assistant.io/integrations/ebusd
 </div>
 
 ### Schematic
-![Schematic](https://raw.githubusercontent.com/xyzroe/eBus-TTL-adapter/images/master/Schematic.png)
+![Schematic](https://raw.githubusercontent.com/xyzroe/eBus-TTL-adapter/master/images/Schematic.png)
 
 ### Where to buy?
 <a href="https://www.tindie.com/stores/mind/?ref=offsite_badges&utm_source=sellers_xyzroe&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" height="120"></a>
@@ -43,7 +43,7 @@ Also available HA [integration](https://www.home-assistant.io/integrations/ebusd
 ### Sponsor
 [PCBWay.com](https://www.pcbway.com/) acted as a sponsor of this project.  
 The quality of order fulfillment is excellent.  
-![packed](https://raw.githubusercontent.com/xyzroe/eBus-TTL-adapter/images/master/packed.jpg)
+![packed](https://raw.githubusercontent.com/xyzroe/eBus-TTL-adapter/master/images/packed.jpg)
 
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
