@@ -2,3 +2,7 @@
   title: "xyzroe's blog"
   url: https://xyzroe.cc
   position: 1
+- git-hub-repo:
+  title: "GitHub Repo"
+  url: https://github.com/xyzroe/eBus-TTL-adapter
+  position: 2
