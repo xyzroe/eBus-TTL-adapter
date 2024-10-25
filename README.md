@@ -1,9 +1,5 @@
 # eBus-TTL-adapter
----
-layout: page
-hide_title: true
-hide: true                          
----
+
 ### About
 This adapter is designed to connect an eBus compatible boiler to any TTL port (TTL-USB, ESP8266, ESP32, Arduino, etc).  
 
